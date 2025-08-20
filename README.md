@@ -14,7 +14,7 @@ A simple weather application that lets users search for real-time weather update
 
 ## ⚙️ Technologies Used
 - **HTML5** – structure  
-- **CSS3 / Bootstrap** – styling & responsiveness  
+- **CSS3** – styling & responsiveness  
 - **JavaScript (ES6)** – app logic and API handling  
 - **OpenWeatherMap API** – weather data  
 
